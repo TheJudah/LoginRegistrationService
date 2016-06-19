@@ -1,0 +1,6 @@
+Login Register Service Test Sheet
+Condition // Result
+RegisterVenue() returns false when venue is already registered // Correct
+RegisterVenue() returns true when a new venue has been registered // Correct
+LoginVenue() returns –1 when a login has failed // Correct
+LoginVenue() returns venueKey (session key) upon successful login // Correct
